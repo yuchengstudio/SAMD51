@@ -73,6 +73,7 @@ PORT输入同步器使用CPU主时钟，以使重新同步延迟最小化
 
 
 <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+<font face="STCAIYUN">我是华文彩云</font>
 如何开启内部“DRVSTR”功能。
 
 
