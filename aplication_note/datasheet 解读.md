@@ -72,7 +72,7 @@ PORT输入同步器使用CPU主时钟，以使重新同步延迟最小化
 关于APB时钟。
 
 
-<font color=#0099ff size=7 face="黑体">有待研究的问题：
+<font color=#0099ff size=7 face="黑体"> 有待研究的问题：
 如何开启内部“DRVSTR”功能。
 
 
