@@ -36,3 +36,10 @@
 ## 32.3 框图
 ![images](https://github.com/yuchengstudio/SAMD51/blob/master/aplication_note/pictures/E5X_DT_001.jpg)
 
+## 32.4 信号描述
+表格32-1. PORT的信号描述
+![images](https://github.com/yuchengstudio/SAMD51/blob/master/aplication_note/pictures/E5X_DT_002.jpg)
+有关此外设的引脚映射的详细信息，请参阅I / O复用和注意事项(I/O Multiplexing and Considerations)。
+一个信号可以映射到多个引脚。
+
+
