@@ -77,6 +77,10 @@ PORT输入同步器使用CPU主时钟，以使重新同步延迟最小化
 如何开启内部“DRVSTR”功能，并检测时钟输出是否能整形成功。
 ```
 
+# 54. 电器参数
+### 54.13.2 SPI时钟特性
+![images](https://github.com/yuchengstudio/SAMD51/blob/master/aplication_note/pictures/E5x_SPI_001.jpg)
+
 
 
 
