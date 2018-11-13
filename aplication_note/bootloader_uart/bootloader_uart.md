@@ -13,3 +13,6 @@ https://github.com/yuchengstudio/SAMD51/blob/master/aplication_note/SAM_D51_Xpla
 
 固件文件如下：
 https://github.com/yuchengstudio/SAMD51/blob/master/aplication_note/bootloader_uart/reference/SAMD51_bootloader_uart.rar
+
+3.2 添加基于UART的bootloader应用程序
+
