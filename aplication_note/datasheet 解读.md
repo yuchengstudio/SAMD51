@@ -12,6 +12,9 @@
    <br/>无需CPU干预即可进行通信，无需消耗总线或RAM带宽等系统资源。 与传统的基于中断的系统相比，这减少了CPU和其他系统资源的负载。
 
 
+## 32.3 模块框图
+![image](https://github.com/yuchengstudio/SAMD51/blob/master/aplication_note/pictures/Event%20System_001.png)
+
 # 32. PORT - I/O口控制器
 ## 32.1 综述
    IO引脚控制器（PORT）控制器件的I / O引脚。 I / O引脚被组织在一系列组中，统称为PORT组。 每个端口组最多可以有32个引脚
